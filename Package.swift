@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-let packageName = "OTXCFramework"
+let packageName = "OpenTok"
 
 let package = Package(
     name: packageName,
