@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: packageName,
             url: "https://github.com/MattKiazyk/OpenTok/raw/main/OpenTok.zip",
-            checksum: "e08bb1189a5bcbac5200583ddc5c430c80da42688eab000cb4086826d73e7a17"
+            checksum: "181c39db6846f3df2ae9923e9eee85384ca3740f5ca9608f0dd4202c2f0a7396"
             ),
     ]
 )
